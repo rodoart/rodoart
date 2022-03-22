@@ -1,4 +1,4 @@
-### Hello World, I am Rodolfo!  👋
+### Hello World, I'm Rodolfo!  👋
 
 
 # I am Physicist and a master's student in artificial intelligence, apllying my knowledge to data science.
