@@ -41,24 +41,14 @@
 <a href="https://www.docker.com/"><img align="left" width="26" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></a> 
 
 <a href="https://spark.apache.org/"><img align="left" width="26" height="26" src="https://spark.apache.org/favicon.ico" alt="Spark"></a> 
-<br> 
 
 <a href="https://www.latex-project.org/"><img align="left" width="26" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="LaTeX"></a> 
 
 <a href="https://code.visualstudio.com/"><img align="left" width="26" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></a> 
-<br> 
 
-<!--
-**rodoart/rodoart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> <br>
 
-Here are some ideas to get you started:
+## I'm listening 🎧
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Spotify](https://novatorem-npj1y460d-rodoart.vercel.app/api/spotify)](https://open.spotify.com/user/22xqrztrudsnvixdtjkcvu22a)
