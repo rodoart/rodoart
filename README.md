@@ -1,7 +1,7 @@
 ### Hello World, I am Rodolfo!  👋
 
 
-# I am a Physicist and a master's student in artificial intelligence, apllying my knowledge to data science.
+# I am a Physicist and a master's student in artificial intelligence, aplying my knowledge to data science.
 
 - 🔭 I am currently working on uploading Data Science projects that I have on my hard drive to GitHub.
 - 🌱 I am currently learning Data Science, Google Cloud, Flask and software engineering fundamentals .
