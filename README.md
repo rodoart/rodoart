@@ -1,10 +1,10 @@
-### Hello World, I'm Rodolfo!  👋
+### Hello World, I am Rodolfo!  👋
 
 
-# I'm a Physicist and a master's student in artificial intelligence, apllying my knowledge to data science.
+# I am a Physicist and a master's student in artificial intelligence, apllying my knowledge to data science.
 
 - 🔭 I am currently working on uploading Data Science projects that I have on my hard drive to GitHub.
-- 🌱 I’m currently learning Data Science, Google Cloud, Flask and software engineering fundamentals .
+- 🌱 I am currently learning Data Science, Google Cloud, Flask and software engineering fundamentals .
 - I really enjoy literature, role-playing games, classical music and riding a bicycle. 
 
 # Contact me
