@@ -1,7 +1,7 @@
 ### Hello World, I am Rodolfo!  👋
 
 
-# I am a Physicist and a master's student in artificial intelligence, aplying my knowledge to data science.
+# I am a Physicist and Master In artificial intelligence, aplying my knowledge to data science.
 
 - 🔭 I am currently working on uploading Data Science projects that I have on my hard drive to GitHub.
 - 🌱 I am currently learning Data Science, Google Cloud, Flask and software engineering fundamentals .
@@ -12,7 +12,7 @@
 
 <a href="https://twitter.com/RodolfoTrillo"><img align="left" width="26" height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="RodolfoTrillo | Twitter"></a>
 
-<a href="https://www.linkedin.com/in/rodolfo-arturo-gonz%C3%A1lez-trillo-93829219a"><img align="left" width="26" height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Rodolfo Arturo González Trillo | Twitter"></a> 
+<a href="https://www.linkedin.com/in/rodolfo-trillo-93829219a"><img align="left" width="26" height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Rodolfo Arturo González Trillo | Twitter"></a> 
 <br> 
 
 
